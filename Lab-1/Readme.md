@@ -10,13 +10,9 @@ This workspace contains materials for the AI Lab (Lab-1). It includes small Pyth
 
 ```
 .
-├─ lab.md               # Lab overview / notes
-├─ task.md              # Assignment / task description
 ├─ Lab-1/
-│  ├─ 1.py              # Exercise / script 1
-│  ├─ 2.py              # Exercise / script 2
-│  ├─ 3.py              # Exercise / script 3
-│  ├─ 4.py              # Exercise / script 4
+   └─lab.md               # Lab overview / notes
+   └─task.md              # Assignment / task description
 │  └─ lab1.ipynb        # Jupyter notebook for Lab-1
 ```
 
