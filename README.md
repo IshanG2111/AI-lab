@@ -78,5 +78,3 @@ print("Test accuracy:", accuracy_score(y_test, model.predict(X_test)))
 ## Contributing
 
 If you want to add materials: fork the repo, create a branch, add your content (notebooks should be cleared of heavy outputs where possible), and open a pull request. Use clear commit messages and add a short description in your PR explaining the content.
-
-```
