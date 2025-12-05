@@ -12,3 +12,4 @@ print(fruits)
 
 fruits.clear()
 print(fruits)
+

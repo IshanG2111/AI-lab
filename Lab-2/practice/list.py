@@ -11,3 +11,4 @@ fruits.append("pineapple")
 print(fruits)
 fruits.sort()
 print(fruits)
+
